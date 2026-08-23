@@ -4,7 +4,7 @@
   "description": "Terminal support for Acode",
   "license": "MIT",
   "author": "Raunak Raj <bajrangcoders@gmail.com>",
-  "repository": "https://github.com/bajrangCoder/acode-plugin-terminal.git",
+  "repository": "https://github.com/bajrangCoder/acode-plugin-acodex.git",
   "main": "dist/main.js",
   "scripts": {
     "dev": "bun esbuild.config.mjs --serve",
